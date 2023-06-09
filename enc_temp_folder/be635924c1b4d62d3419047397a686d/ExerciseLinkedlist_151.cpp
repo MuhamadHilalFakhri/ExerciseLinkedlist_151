@@ -119,7 +119,7 @@ void CircularLinkedList::traverse() {
             currentNode = currentNode->next;
         }
         cout << LAST->rollNumber << " " << LAST->name << endl;
-    } 
+    }
 }
 
 int main() {
